@@ -1,0 +1,23 @@
+#container{
+    position:relative;   
+}
+ .mySlides{
+    position:absolute;
+}
+.btn{
+    position:absolute;
+    z-index:999;
+    height:50px;
+    width:50px;
+    background-color: #000;
+    color:#fff;
+    font-size:30px;
+    font-weight:bold;
+    top:200px;
+
+    
+}
+#btn2{
+    position:absolute;
+    right:0px;
+}

@@ -1,0 +1,40 @@
+body{
+  background-image:url("css.img.jpeg")
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-image:url("css.img.jpeg")
+  color:FFFFFF;
+}
+  ul {
+    list-style-type:None;
+  }
+ li{
+  float:left;
+  width:350px;
+  height:60px;
+ }
+ a{
+  text-decoration:none ;
+  font-size:30px;
+  background:linear-gradient(#5DA6E1,#185282);
+  display:block;
+  padding:8px;
+  font-weight:bold;
+  text-align:center;
+  line-height:36px;
+  color:white;
+ }
+ a:hover{
+  font-size: 30px;
+  background: linear-gradient(#64D86A, #1D7521);
+
+ }
+ p{
+  clear:both;
+  padding-top:100px;
+  text-align:center;
+  font-size: 50px;
+  font-weight: bold;
+  color:#ff0000;
+
+ }
